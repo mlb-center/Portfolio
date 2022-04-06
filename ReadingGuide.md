@@ -7,14 +7,15 @@
 - [5. Experience](#5-experience)
 - [6. Deliverables](#6-deliverables)
 - [7. Learning outcomes and product matrix](#7-learning-outcomes-and-product-matrix)
-- [8. Skill Level - Self Reflection](#8-skill-level-self-reflection)
-- [9. Skill Level - Teacher Review](#9-skill-level-teacher-review)
+- [8. Skill Level - Self Reflection](#8-skill-level---self-reflection)
+- [9. Skill Level - Teacher Review](#9-skill-level---teacher-review)
 
 ## 2. Document History
 | Version | Changes | Author | Date |
 |---------|---------|--------|------|
 | 0.1 | Initial Setup | Ruben Leerentveld | 30-03-2022 | 
-| 0.2 | Migration to github | Ruben Leerentveld | 04-04-2022|
+| 0.2 | Chapter 1, 2, 3 and 4 migration to github  | Ruben Leerentveld | 04-04-2022|
+| 0.3 | Chapter 5, 6, 7 and 8 migration to github  | Ruben Leerentveld | 06-04-2022|
 
 
 ## 3. Document Purpose
@@ -35,7 +36,66 @@ I have clear goals for the upcomming 3 years. First I want to pass this semester
 After graduation I will be doing a pre-master at the TU Eindhoven and Fall 2023 I will start a master study in Cyber Security OR Software Engineering (I think the combination of BSc Software Engineering and MSc Cyber Security is a wnated combination)
 
 ## 5. Experience
+
+I started my Fontys career without any knowledge on softwsare engineering or development at all. In the first year I learned how I can program in C#, how to use databases and how I can build websites. With this combined I learned how to use ASP.net as well. The second year I deepened my knowlege in API's, research and the basics of enterprise. The third year really launched my knowledge to a high level
+
+This 3rd year I started my internship at Netwerk-C where I had to build an enterprise e-commerce system. This is where I learned enterprise software on a wide scale
+
+I built:
+- Several mature API's
+- A webshop frontend (for testing purposes)
+- Message queueing with RabbitMQ
+- Connection with 3rd party payment provider (Adyen)
+- Connection with 3rd party packet service api (PostNL)
+- Monitoring & Alerting (With Telegraf, InfluxDB, Grafana)
+- Powershell scripting
+
+The best thing about my internship was the huge overlap between software and networking. The internship company gave me 10 servers I was abla to use and from there built the whole system from scratch! And from scratch I mean: Installing the server blade in the server rack and configure it myself!
+
+After my internship I landed my first job as Lead Software Engineer at Netwerk-C. Ever since I am responsible for all development projects within Netwerk-C. I plan, manage and build projects with input of colleagues. Day (and sometimes night) I work together with my colleagues to satisfy big customers and thrive future for our company
+
+
 ## 6. Deliverables
 ## 7. Learning outcomes and product matrix
 ## 8. Skill Level - Self Reflection
+In this chapter I reflect on my own skill levels. Underneath is a table with the given learning outcomes plotted against what skill level i think i have myself on that outcome. Under de table you will find a briefly described explaination per learning outcome
+
+|     | Undefined| Orienting | Beginning | Proficient | Advanced | 
+|-----|----------|-----------|-----------|------------|----------|
+| LO1 |          |###########|           |            |          |
+| LO2 |          |###########|           |            |          |
+| LO3 |##########|           |           |            |          |
+| LO4 |          |           |###########|            |          |
+| LO5 |##########|           |           |            |          |
+| LO6 |##########|           |           |            |          |
+| LO7 |##########|           |           |            |          |
+| LO8 |##########|           |           |            |          |
+
+### LO1 Developing and Deployment of Enterprise Software as a Professional
+### LO2 Context Based Research
+### LO3 Preparation for Life-Long Learning
+### LO4 Scalable Architectures
+### LO5 Development and Operations (DevOps)
+### LO6 Cloud Services
+### LO7 Security By Design
+### LO8 Distributed Data
+
+
+
 ## 9. Skill Level - Teacher Review
+In this chapter you can check up on the history of teacher reviews on my skill levels (@) and how they compare to my own reflection at that moment in time (#). Under each table you can find a brief description of the teacher's review as well
+
+### (#) Self Reflection
+### (@) Teacher Reflection
+### (@#) Teacher and student agree on reflection
+
+|     | Undefined| Orienting | Beginning | Proficient | Advanced | 
+|-----|----------|-----------|-----------|------------|----------|
+| LO1 |          |#@#@#@#@#@#|           |            |          |
+| LO2 |          |#@#@#@#@#@#|           |            |          |
+| LO3 |#@#@#@#@#@|           |           |            |          |
+| LO4 |          |           |#@#@#@#@#@#|            |          |
+| LO5 |#@#@#@#@#@|           |           |            |          |
+| LO6 |#@#@#@#@#@|           |           |            |          |
+| LO7 |#@#@#@#@#@|           |           |            |          |
+| LO8 |#@#@#@#@#@|           |           |            |          |
