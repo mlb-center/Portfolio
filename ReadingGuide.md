@@ -13,9 +13,10 @@
 ## 2. Document History
 | Version | Changes | Author | Date |
 |---------|---------|--------|------|
-| 0.1 | Initial Setup | Ruben Leerentveld | 30-03-2022 | 
-| 0.2 | Chapter 1, 2, 3 and 4 migration to github  | Ruben Leerentveld | 04-04-2022|
-| 0.3 | Chapter 5, 6, 7 and 8 migration to github  | Ruben Leerentveld | 06-04-2022|
+| 0.1 | Initial Setup                                                           | Ruben Leerentveld | 30-03-2022 | 
+| 0.2 | Chapter 1, 2, 3 and 4 migration to github                               | Ruben Leerentveld | 04-04-2022|
+| 0.3 | Chapter 5, 6, 7 and 8 migration to github                               | Ruben Leerentveld | 06-04-2022|
+| 0.4 | Added explaination per learning outcome and adjusted self reflection    | Ruben Leerentveld | 12-04-2022|
 
 
 ## 3. Document Purpose
