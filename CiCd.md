@@ -110,4 +110,4 @@ After the workflow is done, there is an updated version of the docker image avai
 
 After a new version is deployed i can run the new image on docker with ```docker run rubenleerentveld/mlb-center-api```
 When I run this command, docker will check if I have the most recent version and if not, it will install the changes!
-```NOTE: docker does not download a complete new image! It only installs the new parts... this is what makes docker fast
+```NOTE: docker does not download a complete new image! It only installs the new parts... this is what makes docker fast```
