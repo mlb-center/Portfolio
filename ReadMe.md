@@ -89,14 +89,13 @@ I do have experience building pipelines with Jenkins. This semester I want to ex
 For the main endpoint api I setup a Ci/Cd pipeline thats lints my code on every push (code check) and whenever I push to the master branch the pipeline will build an docker image and push it to DockerHub
 
 ### LO6 Cloud Services ```Beginning ```
-For this learning outcome a build server at home which I hosted docker on. In Docker containers I am hosting all parts of the system. Together with the Docker course I am exploring this learning otucome.
 For this learning outcome I will be using Microsoft Azure. Last year I followed the Azure fundamentals course and passed the test as Certified Azure Fundamentals.
 In Azure I built an API thats supplies data about available seats for a baseball game.
 
 
 ### LO7 Security By Design ```Beginning```
 I do have experience in security. I did the specialisation cyber security at Fontys and followed the "Certified Ethical Hacking Course" + Exam given by George Dobrea.
-6th of April I followed the workshop about security and then started hacking into the Juice Shop website.
+6th of April I followed the workshop about security and then started hacking into the Juice Shop website. I will dive deeper into the juice shop website later on.
 
 ### LO8 Distributed Data ```Orienting```
 As a group we followed the Ethical workshop hosted by Nicole
