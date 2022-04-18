@@ -79,11 +79,20 @@ And if we check the queue, there now lives the message we sent!
 
 ![image](https://user-images.githubusercontent.com/27158658/163830921-edf534a9-02fa-4268-acb8-773947a17891.png)
 
+### 5.5 Publish & Get Order
+In this section I want to prove that I now can publish and get messages
 
+First I publish an order with an orderId and a customerId:
 
-Hier even documenteren wat mijn ervaringen met konijnen mq zijn
-- Lastig spring boot
-- API geprobeerd en dat werkt
-- exchange gemaakt en wat dat is
-- queue gemaakt en wat dat is
-- via fotos even deze workflow laten zien (api > exchange > (via key queue) > en weer ophalen in api
+![image](https://user-images.githubusercontent.com/27158658/163860497-3d52394f-a531-4f03-a15e-18732138aa3c.png)
+
+After it entered the exchange and it is routed to the right queue, I can now retrieve it back from the queue:
+
+![image](https://user-images.githubusercontent.com/27158658/163860704-629831dd-6e66-4fb6-bbbf-29eaaa17f760.png)
+
+And that gives the following result:
+
+![image](https://user-images.githubusercontent.com/27158658/163860751-dec460c1-e770-41c3-aec0-12127edf4d1b.png)
+
+In the payload you can see the message I published in the beginning
+
