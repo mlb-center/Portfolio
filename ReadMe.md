@@ -82,6 +82,7 @@ Since my teachers in the second semester did not gave me much of an input I star
 
 ### LO4 Scalable Architectures ```Beginning```
 In my architecture I took scalability into account. Now in the development I hosted a RabbitMQ server and made the first call to the RabbitMQ server. 
+At home I built a server where I host docker on. With the knowledge I gathered from the docker course I now host docker containers on my own server. 
 
 ### LO5 Development and Operations (DevOps) ```Beginning```
 I do have experience building pipelines with Jenkins. This semester I want to explore new field so I started using GitHub actions!
@@ -89,6 +90,9 @@ For the main endpoint api I setup a Ci/Cd pipeline thats lints my code on every 
 
 ### LO6 Cloud Services ```Beginning ```
 For this learning outcome a build server at home which I hosted docker on. In Docker containers I am hosting all parts of the system. Together with the Docker course I am exploring this learning otucome.
+For this learning outcome I will be using Microsoft Azure. Last year I followed the Azure fundamentals course and passed the test as Certified Azure Fundamentals.
+In Azure I built an API thats supplies data about available seats for a baseball game.
+
 
 ### LO7 Security By Design ```Beginning```
 I do have experience in security. I did the specialisation cyber security at Fontys and followed the "Certified Ethical Hacking Course" + Exam given by George Dobrea.
