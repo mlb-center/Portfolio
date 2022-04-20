@@ -17,6 +17,7 @@
 | 0.2 | Chapter 1, 2, 3 and 4 migration to github                               | Ruben Leerentveld | 04-04-2022|
 | 0.3 | Chapter 5, 6, 7 and 8 migration to github                               | Ruben Leerentveld | 06-04-2022|
 | 0.4 | Added explaination per learning outcome and adjusted self reflection    | Ruben Leerentveld | 12-04-2022|
+| 0.5 | Updated LO Matrixes                                                     | Ruben Leerentveld | 12-04-2022|
 
 
 ## 3. Document Purpose
@@ -64,11 +65,11 @@ In this chapter I reflect on my own skill levels. Underneath is a table with the
 |     | Undefined| Orienting | Beginning | Proficient | Advanced | 
 |-----|----------|-----------|-----------|------------|----------|
 | LO1 |          |###########|           |            |          |
-| LO2 |          |###########|           |            |          |
-| LO3 |          |           |###########|            |          |
+| LO2 |##########|           |           |            |          |
+| LO3 |##########|           |           |            |          |
 | LO4 |          |           |###########|            |          |
-| LO5 |          |           |###########|            |          |
-| LO6 |          |           |###########|            |          |
+| LO5 |          |           |           |############|          |
+| LO6 |          |           |           |############|          |
 | LO7 |          |           |###########|            |          |
 | LO8 |          |###########|           |            |          |
 
@@ -102,19 +103,30 @@ As a group we followed the Ethical workshop hosted by Nicole
 
 
 ## 9. Skill Level - Teacher Review
-In this chapter you can check up on the history of teacher reviews on my skill levels (@) and how they compare to my own reflection at that moment in time (#). Under each table you can find a brief description of the teacher's review as well
+In this chapter you can check up on the history of teacher reviews on my skill levels.
 
-### (#) Self Reflection
-### (@) Teacher Reflection
-### (@#) Teacher and student agree on reflection
+### Sprint 1 Week 5 (20-03-2022)
 
 |     | Undefined| Orienting | Beginning | Proficient | Advanced | 
 |-----|----------|-----------|-----------|------------|----------|
-| LO1 |          |#@#@#@#@#@#|           |            |          |
-| LO2 |          |#@#@#@#@#@#|           |            |          |
-| LO3 |#@#@#@#@#@|           |           |            |          |
-| LO4 |          |           |#@#@#@#@#@#|            |          |
-| LO5 |#@#@#@#@#@|           |           |            |          |
-| LO6 |#@#@#@#@#@|           |           |            |          |
-| LO7 |#@#@#@#@#@|           |           |            |          |
-| LO8 |#@#@#@#@#@|           |           |            |          |
+| LO1 |          |###########|           |            |          |
+| LO2 |          |###########|           |            |          |
+| LO3 |##########|           |           |            |          |
+| LO4 |          |           |###########|            |          |
+| LO5 |##########|           |           |            |          |
+| LO6 |##########|           |           |            |          |
+| LO7 |##########|           |           |            |          |
+| LO8 |##########|           |           |            |          |
+
+### Sprint 2 Week 8 (18-04-2022)
+
+|     | Undefined| Orienting | Beginning | Proficient | Advanced | 
+|-----|----------|-----------|-----------|------------|----------|
+| LO1 |          |###########|           |            |          |
+| LO2 |##########|           |           |            |          |
+| LO3 |##########|           |           |            |          |
+| LO4 |          |           |###########|            |          |
+| LO5 |          |           |###########|            |          |
+| LO6 |          |           |           |############|          |
+| LO7 |          |###########|           |            |          |
+| LO8 |          |###########|           |            |          |
