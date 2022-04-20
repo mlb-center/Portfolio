@@ -14,6 +14,8 @@
 | Version | Changes | Author | Date |
 |---------|---------|--------|------|
 | 0.1 | Initial Setup                                                           | Ruben Leerentveld | 18-04-2022 | 
+| 0.2 | Added Autoscaling                                                       | Ruben Leerentveld | 20-04-2022 | 
+
 
 
 ## 3. Document Purpose
@@ -54,7 +56,27 @@ I was able to add data to the database very easily:
 Now we gained an entry we can inspect the entry:
 ![image](https://user-images.githubusercontent.com/27158658/163887178-e565f61a-e892-47e3-8283-ab4c8beb55ce.png)
 
-### 5.3 Setting up Azure Functions
+### 5.3 Scaling the cosmos database
+Scaling is an important functionality in cloud services. With autoscaling you can dynamically and automatically change the size of the database.
+The default for scaling is set to autoscale with a max troughput of 1000 RU/s
+(Aanvraageenheden worden uitgedrukt in RU per Seconde)
+
+![image](https://user-images.githubusercontent.com/27158658/164175444-d75ed727-eb13-4622-ad0d-a70a18c26b68.png)
+
+The settings above indicate that there are a maximum of 1000 request per second allowed, but that will scale down if less is used. Till a minimum of 10% of the max capacity.
+
+The goal of autoscaling is reducing costs. With a max 1000 RU/s I'll pay 8.76 dollar per month, but when I change that to 100 I'll only pay 0.88 cents.
+
+If we compare autoscaling with the manual setting we see a huge difference when making only 100 request per second when having a 1000 Ru/s database
+
+|         | 10% of 1000 Ru/s| 100% of 1000 Ru/s |
+|---------|-----------------|-------------------|
+| Manual |$58.40|$58.40|
+|autoscale|$8.76|$87.60|
+
+
+
+### 5.4 Setting up Azure Functions
 First, I made a function app called "mlb-center-app"
 (There is already some data generated because I made this document after developing)
 ![image](https://user-images.githubusercontent.com/27158658/163887543-8106ba7d-7c2f-4569-9aa4-09a330af5798.png)
