@@ -75,21 +75,21 @@ In this chapter I reflect on my own skill levels. Underneath is a table with the
 
 ### LO1 Developing and Deployment of Enterprise Software as a Professional ```Orienting```
 
-### LO2 Context Based Research ```Orienting```
+### LO2 Context Based Research ```Undefined```
 I started doing research on Docker for my personal project, and integration patterns for the group project
 
-### LO3 Preparation for Life-Long Learning ```Beginning```
+### LO3 Preparation for Life-Long Learning ```Undefined```
 Since my teachers in the second semester did not gave me much of an input I started doing Udemy courses in my free time. This semester I am currently doing an Docker - Swarm - Kubernetes course. I do have experience in these field, but professional explaination won't hurt. This way I am able to show that I can learn the rest of my carreer, by my self
 
 ### LO4 Scalable Architectures ```Beginning```
 In my architecture I took scalability into account. Now in the development I hosted a RabbitMQ server and made the first call to the RabbitMQ server. 
 At home I built a server where I host docker on. With the knowledge I gathered from the docker course I now host docker containers on my own server. 
 
-### LO5 Development and Operations (DevOps) ```Beginning```
+### LO5 Development and Operations (DevOps) ```Proficient```
 I do have experience building pipelines with Jenkins. This semester I want to explore new field so I started using GitHub actions!
 For the main endpoint api I setup a Ci/Cd pipeline thats lints my code on every push (code check) and whenever I push to the master branch the pipeline will build an docker image and push it to DockerHub
 
-### LO6 Cloud Services ```Beginning ```
+### LO6 Cloud Services ```Proficient```
 For this learning outcome I will be using Microsoft Azure. Last year I followed the Azure fundamentals course and passed the test as Certified Azure Fundamentals.
 In Azure I built an API thats supplies data about available seats for a baseball game.
 
