@@ -84,14 +84,17 @@ Since my teachers in the second semester did not gave me much of an input I star
 ### LO4 Scalable Architectures ```Beginning```
 In my architecture I took scalability into account. Now in the development I hosted a RabbitMQ server and made the first call to the RabbitMQ server. 
 At home I built a server where I host docker on. With the knowledge I gathered from the docker course I now host docker containers on my own server. 
+- [Experiences RabbitMQ](https://github.com/mlb-center/Portfolio/blob/main/RabbitMQ.md)
 
 ### LO5 Development and Operations (DevOps) ```Proficient```
 I do have experience building pipelines with Jenkins. This semester I want to explore new field so I started using GitHub actions!
 For the main endpoint api I setup a Ci/Cd pipeline thats lints my code on every push (code check) and whenever I push to the master branch the pipeline will build an docker image and push it to DockerHub
+- [Experiences GitHubActions](https://github.com/mlb-center/Portfolio/blob/main/CiCd.md)
 
 ### LO6 Cloud Services ```Proficient```
 For this learning outcome I will be using Microsoft Azure. Last year I followed the Azure fundamentals course and passed the test as Certified Azure Fundamentals.
 In Azure I built an API thats supplies data about available seats for a baseball game.
+- [Experiences Azure](https://github.com/mlb-center/Portfolio/blob/main/Azure.md)
 
 
 ### LO7 Security By Design ```Beginning```
@@ -105,8 +108,9 @@ As a group we followed the Ethical workshop hosted by Nicole
 ## 9. Skill Level - Teacher Review
 In this chapter you can check up on the history of teacher reviews on my skill levels and how they compare to my self reflection.
 
-### Sprint 1 Week 5 (20-03-2022)
+
 ⚪ - Student (self) Reflection
+
 🔵 - Teacher Reflection
 
 ### Sprint 1
@@ -122,7 +126,6 @@ In this chapter you can check up on the history of teacher reviews on my skill l
 | LO8 |⚪🔵|     |     |     |     |
 
 ### Sprint 2
-
 |     |Undefined|Orienting|Beginning|Proficient|Advanced| 
 |-----|:-------:|:----:|:---:|:--------:|:-------:|
 | LO1 |     |⚪🔵|     |     |     |
