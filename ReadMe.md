@@ -62,16 +62,16 @@ After my internship I landed my first job as Lead Software Engineer at Netwerk-C
 ## 8. Skill Level - Self Reflection
 In this chapter I reflect on my own skill levels. Underneath is a table with the given learning outcomes plotted against what skill level i think i have myself on that outcome. Under de table you will find a briefly described explaination per learning outcome
 
-|     | Undefined| Orienting | Beginning | Proficient | Advanced | 
-|-----|----------|-----------|-----------|------------|----------|
-| LO1 |          |###########|           |            |          |
-| LO2 |##########|           |           |            |          |
-| LO3 |##########|           |           |            |          |
-| LO4 |          |           |###########|            |          |
-| LO5 |          |           |           |############|          |
-| LO6 |          |           |           |############|          |
-| LO7 |          |           |###########|            |          |
-| LO8 |          |###########|           |            |          |
+|     |Undefined|Orienting|Beginning|Proficient|Advanced| 
+|-----|:-------:|:-------:|:-------:|:--------:|:-------:|
+| LO1 |   |⚪|   |   |   |
+| LO2 |   |⚪|   |   |   |
+| LO3 |   |   |⚪|   |   | 
+| LO4 |   |   |⚪|   |   |
+| LO5 |   |   |   |⚪|   |
+| LO6 |   |   |   |⚪|   |
+| LO7 |   |⚪|   |   |   |
+| LO8 |    ⚪|   |   |   |
 
 ### LO1 Developing and Deployment of Enterprise Software as a Professional ```Orienting```
 
@@ -103,30 +103,33 @@ As a group we followed the Ethical workshop hosted by Nicole
 
 
 ## 9. Skill Level - Teacher Review
-In this chapter you can check up on the history of teacher reviews on my skill levels.
+In this chapter you can check up on the history of teacher reviews on my skill levels and how they compare to my self reflection.
 
 ### Sprint 1 Week 5 (20-03-2022)
+⚪ - Student (self) Reflection
+🔵 - Teacher Reflection
 
-|     | Undefined| Orienting | Beginning | Proficient | Advanced | 
-|-----|----------|-----------|-----------|------------|----------|
-| LO1 |          |###########|           |            |          |
-| LO2 |          |###########|           |            |          |
-| LO3 |##########|           |           |            |          |
-| LO4 |          |           |###########|            |          |
-| LO5 |##########|           |           |            |          |
-| LO6 |##########|           |           |            |          |
-| LO7 |##########|           |           |            |          |
-| LO8 |##########|           |           |            |          |
+### Sprint 1
+|     |Undefined|Orienting|Beginning|Proficient|Advanced| 
+|-----|:-------:|:-------:|:-------:|:--------:|:-------:|
+| LO1 |     |⚪🔵|     |     |     |
+| LO2 |     |⚪🔵|     |     |     |
+| LO3 |⚪🔵|     |     |     |     |
+| LO4 |     |⚪🔵|     |     |     |
+| LO5 |⚪🔵|     |     |     |     |
+| LO6 |⚪🔵|     |     |     |     |
+| LO7 |⚪🔵|     |     |     |     |
+| LO8 |⚪🔵|     |     |     |     |
 
-### Sprint 2 Week 8 (18-04-2022)
+### Sprint 2
 
-|     | Undefined| Orienting | Beginning | Proficient | Advanced | 
-|-----|----------|-----------|-----------|------------|----------|
-| LO1 |          |###########|           |            |          |
-| LO2 |##########|           |           |            |          |
-| LO3 |##########|           |           |            |          |
-| LO4 |          |           |###########|            |          |
-| LO5 |          |           |###########|            |          |
-| LO6 |          |           |           |############|          |
-| LO7 |          |###########|           |            |          |
-| LO8 |          |###########|           |            |          |
+|     |Undefined|Orienting|Beginning|Proficient|Advanced| 
+|-----|:-------:|:----:|:---:|:--------:|:-------:|
+| LO1 |     |⚪🔵|     |     |     |
+| LO2 |     |⚪🔵|     |     |     |
+| LO3 |     |     |⚪🔵|     |     | 
+| LO4 |     |     |⚪🔵|     |     |
+| LO5 |     |     | 🔵 |  ⚪ |     |
+| LO6 |     |     |     |⚪🔵|     |
+| LO7 |     |⚪🔵|     |     |     |
+| LO8 |      ⚪🔵|     |     |     |
