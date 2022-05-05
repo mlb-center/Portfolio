@@ -71,7 +71,7 @@ In this chapter I reflect on my own skill levels. Underneath is a table with the
 | LO5 |   |   |   |⚪|   |
 | LO6 |   |   |   |⚪|   |
 | LO7 |   |⚪|   |   |   |
-| LO8 |    ⚪|   |   |   |
+| LO8 |   |⚪|   |   |   |
 
 ### LO1 Developing and Deployment of Enterprise Software as a Professional ```Orienting```
 
