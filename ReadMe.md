@@ -135,4 +135,4 @@ In this chapter you can check up on the history of teacher reviews on my skill l
 | LO5 |     |     | 🔵 |  ⚪ |     |
 | LO6 |     |     |     |⚪🔵|     |
 | LO7 |     |⚪🔵|     |     |     |
-| LO8 |      ⚪🔵|     |     |     |
+| LO8 |     |⚪🔵|     |     |     |
