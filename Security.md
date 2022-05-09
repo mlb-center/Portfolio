@@ -8,6 +8,8 @@
 - [3. Document Purpose](#3-document-purpose)
 - [4. Introduction](#4-introduction)
 - [5. The OWASP top 10](#5-the-owasp-top-10)
+- [6. Sonarqube](#6-sonarqube)
+- [7. OWASP top 10 CI/CD](#7-owasp-top-10-cicd)
 
 
 ## 2. Document History
@@ -62,5 +64,13 @@ Underneath is a nice overview of how severity has changes past 4 years
 ![image](https://user-images.githubusercontent.com/27158658/167400711-ea2885ce-3c35-4edd-a100-4a014c8e12ef.png)
 
 
-##
+## 6. Sonarqube
+To ensure quality of my code I implemented Sonarqube. On every push to master, sonarqube will check my codebase on quality, bugs, code smells, security hotspots and vulnerability.
+
+After fixing some codesmells and security flags my analysis is quite neat!
+![image](https://user-images.githubusercontent.com/27158658/167405575-815c0dce-0cbc-4f58-a76d-ac302b5363c0.png)
+
+## 7. OWASP top 10 CICD
+To ensure I have no vulnerabilities that occur in the OWASP top 10 I run an extra check in my Ci/Cd that checks on the CiCd practices
+
 ```docker cotnainer ls```
