@@ -14,6 +14,7 @@
 | Version | Changes | Author | Date |
 |---------|---------|--------|------|
 | 0.1 | Initial Setup                                                           | Ruben Leerentveld | 05-05-2022 | 
+| 0.2 | Added 5. Experience                                                     | Ruben Leerentveld | 09-05-2022 | 
 
 
 ## 3. Document Purpose
