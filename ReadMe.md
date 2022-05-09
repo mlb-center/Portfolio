@@ -72,7 +72,7 @@ In this chapter I reflect on my own skill levels. Underneath is a table with the
 | LO5 |   |   |   |⚪|   |
 | LO6 |   |   |   |⚪|   |
 | LO7 |   |   |⚪|   |   |
-| LO8 |   |⚪|   |   |   |
+| LO8 |   |   |⚪|   |   |
 
 ### LO1 Developing and Deployment of Enterprise Software as a Professional ```Beginning```
 Our group project had a rough start, but more and more are we getting grip on it!
@@ -82,12 +82,12 @@ I researched the api and align with the rest of the group what data we need to h
 Especially in this project I am learning that communication and alignment with you team is key for progress.
 
 ### LO2 Context Based Research ```Beginning```
-In the first few weeks of the group project I have done a lot of research and learn a lot about how you peform a research.
+In the first few weeks of the group project I have done a lot of research and learned a lot about how you peform a research.
 During the semester I catch my self more and more on doing research to get to know something.
-What first was just looking around on the internet is now preparing, doing and evaluating a well documented research
+What first was just looking around on the internet is now preparing, doing and evaluating a well documented research with different strategies
 
 For my personal development I am doing a Docker research.
-I started doing research on Docker for my personal project, and integration patterns for the group project
+
 
 ### LO3 Preparation for Life-Long Learning ```Beginning```
 Since my teachers in the second semester did not gave me much of an input I started doing Udemy courses in my free time. This semester I am currently doing an Docker - Swarm - Kubernetes course. I do have experience in these field, but professional explaination won't hurt. This way I am able to show that I can learn the rest of my carreer, by my self
@@ -124,8 +124,10 @@ To make sure my application meets the security requirements I scan my code with 
 
 To be certain I do now have any vulnerability that occurs in the OWASP top 10 I implemented an extra OWASP code lint in my CI/CD
 
-### LO8 Distributed Data ```Orienting```
-As a group we followed the Ethical workshop hosted by Nicole
+### LO8 Distributed Data ```Beginning```
+I use a couple data sources in my application. I make sure every part of the system has his own data source!
+
+As a group we followed the Ethical workshop hosted by Nicole.
 
 
 ## 9. Skill Level - Teacher Review
@@ -159,3 +161,15 @@ In this chapter you can check up on the history of teacher reviews on my skill l
 | LO6 |     |     |     |⚪🔵|     |
 | LO7 |     |⚪🔵|     |     |     |
 | LO8 |     |⚪🔵|     |     |     |
+
+### Sprint 3
+|     |Undefined|Orienting|Beginning|Proficient|Advanced| 
+|-----|:-------:|:----:|:---:|:--------:|:-------:|
+| LO1 |  |  |⚪|  |  |
+| LO2 |  |  |⚪|  |  |
+| LO3 |  |  |⚪|  |  | 
+| LO4 |  |  |  |⚪|  |
+| LO5 |  |  |  |⚪|  |
+| LO6 |  |  |  |⚪|  |
+| LO7 |  |  |⚪|  |  |
+| LO8 |  |  |⚪|  |  |
