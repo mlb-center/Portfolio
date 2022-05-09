@@ -49,6 +49,18 @@ When security risks (CVEs) are found, they are commonly fixed by a software upda
 Previously known as broken authentication, this risk describes the bad implementation of authentication and sessionmanagement related functions. When implemented incorrectly, an attacker is able to compromise passwords, keywords and sessions which lead to stolen user identity
 
 ### 5.8 A08:2021-Software and Data Integrity Failures
+This risk focuses on software updates, critical data and Ci/CD pipelines used without verifying integrity (insecure deserialization added later on)
+
+### 5.9 A09:2021-Security Logging and Monitoring Failures
+Formerly known as insufficient logging and monitoring. logging and monitoring are activities that should be performed on a website frequently. Failure to do so leaves a site vulnerable to more severe compromising.
+
+### 5.10 A190:2021-Server-Side Request Forgery
+SSRF can happen whem a web application fetches a remote resource without validating the user-supplied URL. This allows an attacker to make the application send a crafted request to an unexpected destination
+
+Underneath is a nice overview of how severity has changes past 4 years
+
+![image](https://user-images.githubusercontent.com/27158658/167400711-ea2885ce-3c35-4edd-a100-4a014c8e12ef.png)
 
 
+##
 ```docker cotnainer ls```
