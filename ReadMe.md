@@ -165,11 +165,11 @@ In this chapter you can check up on the history of teacher reviews on my skill l
 ### Sprint 3
 |     |Undefined|Orienting|Beginning|Proficient|Advanced| 
 |-----|:-------:|:----:|:---:|:--------:|:-------:|
-| LO1 |  |  |⚪|  |  |
-| LO2 |  |  |⚪|  |  |
-| LO3 |  |  |⚪|  |  | 
-| LO4 |  |  |  |⚪|  |
-| LO5 |  |  |  |⚪|  |
-| LO6 |  |  |  |⚪|  |
-| LO7 |  |  |⚪|  |  |
-| LO8 |  |  |⚪|  |  |
+| LO1 |  |  |🔵⚪|  |  |
+| LO2 |  |🔵|⚪|  |  |
+| LO3 |  |🔵|⚪|  |  | 
+| LO4 |  |  |  |🔵⚪|  |
+| LO5 |  |  |  |🔵⚪|  |
+| LO6 |  |  |  |🔵⚪|  |
+| LO7 |  |  |🔵⚪|  |  |
+| LO8 |  |  |🔵⚪|  |  |
