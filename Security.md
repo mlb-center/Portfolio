@@ -73,4 +73,12 @@ After fixing some codesmells and security flags my analysis is quite neat!
 ## 7. OWASP top 10 CICD
 To ensure I have no vulnerabilities that occur in the OWASP top 10 I run an extra check in my Ci/Cd that checks on the CiCd practices
 
-```docker cotnainer ls```
+## 8. Authentication and Authorization
+To make sure users can only access their own data, I built Authentication and Authorization.
+
+And the best way to build that is, well, to not do it yourself :)
+
+I am using google as my authentication provider.
+Upon logging in, users get directed to the google login page where they will enter their credentials. 
+After that, my Api receives their email and profile data which are needed in the application.
+![image](https://user-images.githubusercontent.com/27158658/171005082-5c2f5f58-7b82-4aa3-a520-2e8fa2e9fc42.png)
