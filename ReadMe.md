@@ -67,11 +67,11 @@ In this chapter I reflect on my own skill levels. Underneath is a table with the
 |-----|:-------:|:-------:|:-------:|:--------:|:-------:|
 | LO1 |   |   |⚪|   |   |
 | LO2 |   |   |⚪|   |   |
-| LO3 |   |   |⚪|   |   | 
+| LO3 |   |   |   |⚪|   | 
 | LO4 |   |   |   |⚪|   |
 | LO5 |   |   |   |⚪|   |
 | LO6 |   |   |   |⚪|   |
-| LO7 |   |   |⚪|   |   |
+| LO7 |   |   |   |⚪|   |
 | LO8 |   |   |⚪|   |   |
 
 ### LO1 Developing and Deployment of Enterprise Software as a Professional ```Beginning```
@@ -89,8 +89,10 @@ What first was just looking around on the internet is now preparing, doing and e
 For my personal development I am doing a Docker research.
 
 
-### LO3 Preparation for Life-Long Learning ```Beginning```
-Since my teachers in the second semester did not gave me much of an input I started doing Udemy courses in my free time. This semester I am currently doing an Docker - Swarm - Kubernetes course. I do have experience in these field, but professional explaination won't hurt. This way I am able to show that I can learn the rest of my carreer, by my self
+### LO3 Preparation for Life-Long Learning ```Proficient```
+Since my teachers in the second semester did not gave me much of an input I started doing Udemy courses in my free time. This semester I am currently doing an Docker - Swarm - Kubernetes course. I do have experience in these field, but professional explaination won't hurt. This way I am able to show that I can learn the rest of my carreer, by my self. 
+
+Every wednesday I visit the online workshops to gain knowledge this semester
 
 ### LO4 Scalable Architectures ```Proficient```
 In my architecture I took scalability into account. Now in the development I hosted a RabbitMQ server and made the first call to the RabbitMQ server. 
@@ -115,20 +117,26 @@ In Azure I built an API thats supplies data about available seats for a baseball
 - [Experiences Azure](https://github.com/mlb-center/Portfolio/blob/main/Azure.md)
 
 
-### LO7 Security By Design ```Beginning```
+### LO7 Security By Design ```Proficient```
 I do have experience in security. I did the specialisation cyber security at Fontys and followed the "Certified Ethical Hacking Course" + Exam given by George Dobrea.
 6th of April I followed the workshop about security and then started hacking into the Juice Shop website. I will dive deeper into the juice shop website later on.
 To get to know the OWASP top 10 I researched the top 10 vulnerabilities and how you can avoid them. 
 To make sure my application meets the security requirements I scan my code with Sonarcloud on everypush. This will give me a heads up on all code smells, security hotspots, vulnerabilities and code quality.
 - [Experiences Security](https://github.com/mlb-center/Portfolio/blob/main/Security.md)
 
-To be certain I do now have any vulnerability that occurs in the OWASP top 10 I implemented an extra OWASP code lint in my CI/CD
+To be certain I do now have any vulnerability that occurs in the OWASP top 10 I implemented an extra OWASP code lint in my CI/CD.
+
+Besides doing research on OWASP I implemented Google auth.
+```The best way to build security is not doing it yourself```
 
 ### LO8 Distributed Data ```Beginning```
-I use a couple data sources in my application. I make sure every part of the system has his own data source!
+Together with Rick I did a research on distributed data. 
+Topics as: 
+- The three V's
+- Cap theorem
+- ACID 
 
-As a group we followed the Ethical workshop hosted by Nicole.
-
+Will come across
 
 ## 9. Skill Level - Teacher Review
 In this chapter you can check up on the history of teacher reviews on my skill levels and how they compare to my self reflection.
@@ -167,9 +175,9 @@ In this chapter you can check up on the history of teacher reviews on my skill l
 |-----|:-------:|:----:|:---:|:--------:|:-------:|
 | LO1 |  |  |🔵⚪|  |  |
 | LO2 |  |🔵|⚪|  |  |
-| LO3 |  |🔵|⚪|  |  | 
+| LO3 |  |🔵|  |⚪|  | 
 | LO4 |  |  |  |🔵⚪|  |
 | LO5 |  |  |  |🔵⚪|  |
 | LO6 |  |  |  |🔵⚪|  |
-| LO7 |  |  |🔵⚪|  |  |
+| LO7 |  |  |🔵|⚪|  |
 | LO8 |  |  |🔵⚪|  |  |
