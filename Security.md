@@ -80,5 +80,16 @@ And the best way to build that is, well, to not do it yourself :)
 
 I am using google as my authentication provider.
 Upon logging in, users get directed to the google login page where they will enter their credentials. 
-After that, my Api receives their email and profile data which are needed in the application.
+After that, my Api receives their email and profile data which are needed in the application. 
+
+First I signed up my app in de developer window of Google 
 ![image](https://user-images.githubusercontent.com/27158658/171005082-5c2f5f58-7b82-4aa3-a520-2e8fa2e9fc42.png)
+
+After signing up I made a pair of credentials which I can use in my application to authenticate users
+![image](https://user-images.githubusercontent.com/27158658/171113962-c887da98-f470-4598-9ba9-8cd683ef2ed1.png)
+
+Authenticating with a third party provides looks like this
+![image](https://user-images.githubusercontent.com/27158658/171114391-66b25222-aa90-436a-810a-e2cce0c4ac29.png)
+
+
+
