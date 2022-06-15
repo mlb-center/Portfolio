@@ -1,5 +1,5 @@
 # Security
-![image](https://user-images.githubusercontent.com/27158658/167381983-99c97dae-347c-48e6-b386-b1431f371873.png)
+![image](https://user-images.githubusercontent.com/27158658/173853778-7b202652-cf50-441b-beb3-52d52402501d.png)
 
 
 ## 1. Contents
@@ -24,6 +24,8 @@ To raise this learning outcome to an ```Proficient``` I have to implement role b
 ## 4. Introduction
 I built authentication and authorization on my api with the Spring boot security framework. 
 When a user logs in he will receive a cookie in his browser. He is now able to use controllers that are available for his role.
+
+![image](https://user-images.githubusercontent.com/27158658/173853631-3a5fafeb-45dd-41ce-b0bf-6a0be170217c.png)
 
 
 
