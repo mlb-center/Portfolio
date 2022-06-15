@@ -28,9 +28,16 @@ When a user logs in he will receive a cookie in his browser. He is now able to u
 ![image](https://user-images.githubusercontent.com/27158658/173853631-3a5fafeb-45dd-41ce-b0bf-6a0be170217c.png)
 
 
+![image](https://user-images.githubusercontent.com/27158658/173854532-75725a30-6871-43f5-8233-eda893501ec0.png)
+![image](https://user-images.githubusercontent.com/27158658/173854632-a83d05dd-0645-4900-9a31-4c5232dea97e.png)
+![image](https://user-images.githubusercontent.com/27158658/173854837-3e595bae-a96a-450b-915a-ad281e829d0f.png)
 
+![image](https://user-images.githubusercontent.com/27158658/173854992-44f22244-5cb3-442f-a494-7eae9cdc9148.png)
+![image](https://user-images.githubusercontent.com/27158658/173855170-76e9cf7c-d936-475f-9b97-1387d59543be.png)
 
+![image](https://user-images.githubusercontent.com/27158658/173855355-45855678-e516-4222-a078-596f063f79e5.png)
 
+![image](https://user-images.githubusercontent.com/27158658/173855452-c7a65876-6cea-4ffb-8642-3831e82ce758.png)
 
 
 
