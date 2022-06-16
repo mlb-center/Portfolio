@@ -54,9 +54,11 @@ But the moderator function is forbidden since I do not have a moderator role!
 
 
 ### 5.2 Login as MODERATOR
-
+I already made a moderator account. I now login and receive the MODERATOR cookie.
 
 ![image](https://user-images.githubusercontent.com/27158658/174025540-127657b9-8242-41aa-be5d-fbb81afbf87e.png)
+
+Now I have a moderator cookie I am able to use the moderator functions.
 
 ![image](https://user-images.githubusercontent.com/27158658/174025672-46585e50-b2c5-4422-8fa0-0c6607e35d1e.png)
 
