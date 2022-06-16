@@ -23,21 +23,23 @@ To raise this learning outcome to an ```Proficient``` I have to implement role b
 
 ## 4. Introduction
 I built authentication and authorization on my api with the Spring boot security framework. 
-When a user logs in he will receive a cookie in his browser. He is now able to use controllers that are available for his role.
+When a user logs in he will receive a cookie in his browser. He is now able to use controllers that are available for his role..
+
+## 5. Implementation
+To implement autentication and authorization I first implemented a h2 in-memory database.
+Second, I added models for users and Roles. The current roles available are "USER" and "MOD".
+Authentication is done by a JWT token in the cookie header, next, the authorization is handled by a role assigned to a user.
+Underneath is a sequence diagram that shows the process of authentication and authorization
 
 ![image](https://user-images.githubusercontent.com/27158658/173853631-3a5fafeb-45dd-41ce-b0bf-6a0be170217c.png)
 
-
-![image](https://user-images.githubusercontent.com/27158658/173854532-75725a30-6871-43f5-8233-eda893501ec0.png)
-![image](https://user-images.githubusercontent.com/27158658/173854632-a83d05dd-0645-4900-9a31-4c5232dea97e.png)
-![image](https://user-images.githubusercontent.com/27158658/173854837-3e595bae-a96a-450b-915a-ad281e829d0f.png)
-
-![image](https://user-images.githubusercontent.com/27158658/173854992-44f22244-5cb3-442f-a494-7eae9cdc9148.png)
+Step one is to register a new user! I first register a user with the ```USER``` role
 ![image](https://user-images.githubusercontent.com/27158658/173855170-76e9cf7c-d936-475f-9b97-1387d59543be.png)
 
-![image](https://user-images.githubusercontent.com/27158658/173855355-45855678-e516-4222-a078-596f063f79e5.png)
+Now that the user is registered in the H2-database I can login with his credentials. 
 
-![image](https://user-images.githubusercontent.com/27158658/173855452-c7a65876-6cea-4ffb-8642-3831e82ce758.png)
+
+
 
 
 
