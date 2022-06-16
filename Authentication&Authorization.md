@@ -31,6 +31,7 @@ Second, I added models for users and Roles. The current roles available are "USE
 Authentication is done by a JWT token in the cookie header, next, the authorization is handled by a role assigned to a user.
 Underneath is a sequence diagram that shows the process of authentication and authorization
 
+### 5.1 Login as USER
 ![image](https://user-images.githubusercontent.com/27158658/173853631-3a5fafeb-45dd-41ce-b0bf-6a0be170217c.png)
 
 Step one is to register a new user! I first register a user with the ```USER``` role
@@ -38,9 +39,21 @@ Step one is to register a new user! I first register a user with the ```USER``` 
 
 Now that the user is registered in the H2-database I can login with his credentials. 
 ![image](https://user-images.githubusercontent.com/27158658/174024015-47f67770-e94c-4845-a92e-a9b4cd2d7206.png)
+
+And when the login credentials get accepted I will receive a cookie in the header. This cookie I can use to authenticate and authoriza as a user
+
 ![image](https://user-images.githubusercontent.com/27158658/174024073-81add461-2be1-479e-a1b1-7fe5f135d278.png)
+
+Here I am now able to view the user content with my cookie
+
 ![image](https://user-images.githubusercontent.com/27158658/174024294-625aaa82-e110-46fb-9dc3-993a6dbe90fa.png)
+
+But the moderator function is forbidden since I do not have a moderator role!
+
 ![image](https://user-images.githubusercontent.com/27158658/174024344-60cef828-5841-4330-ab11-8083d5eef237.png)
+
+
+### 5.2 Login as MODERATOR
 
 
 
