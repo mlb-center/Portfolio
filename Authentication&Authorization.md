@@ -37,6 +37,13 @@ Step one is to register a new user! I first register a user with the ```USER``` 
 ![image](https://user-images.githubusercontent.com/27158658/173855170-76e9cf7c-d936-475f-9b97-1387d59543be.png)
 
 Now that the user is registered in the H2-database I can login with his credentials. 
+![image](https://user-images.githubusercontent.com/27158658/174024015-47f67770-e94c-4845-a92e-a9b4cd2d7206.png)
+![image](https://user-images.githubusercontent.com/27158658/174024073-81add461-2be1-479e-a1b1-7fe5f135d278.png)
+![image](https://user-images.githubusercontent.com/27158658/174024294-625aaa82-e110-46fb-9dc3-993a6dbe90fa.png)
+![image](https://user-images.githubusercontent.com/27158658/174024344-60cef828-5841-4330-ab11-8083d5eef237.png)
+
+
+
 
 
 
